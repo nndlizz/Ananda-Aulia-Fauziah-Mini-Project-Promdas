@@ -26,10 +26,11 @@ Penjelasan Program
 - - Konsep yang digunakan:
 - - - Input/output
 - - - Variabel
-- - - If-else
-- - - Loop (perulangan)
-- - - Fungsi
-- - - Array
+- - - Swicth Case (untuk pilihan menu)
+- - - If-else (pengecekan kondisi uang dan menu yang paling sering dipilih (selain if-else, pakai count juga))
+- - - Do While (mengulang program)
+- - - Fungsi (scanf, printf, sprintf)
+- - - Array (untuk menyimpan jenis menu yang dipilih)
       
 ## Link Video Demo
 https://youtu.be/HWrIBB1F0do?feature=shared
